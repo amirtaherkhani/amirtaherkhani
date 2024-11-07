@@ -1,12 +1,25 @@
-### Hello <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px">
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirtaherkhani@outlook.com)
+### Hello, I'm Amir <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px">
+<div>
+	
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amirtaherkhani937@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:amirtaherkhani@outlook.com)
 
-![Matilde's github stats](https://github-readme-stats.vercel.app/api?username=amirtaherkhani&count_private=true&show_icons=true&theme=dracula) 
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtaherkhani&hide_progress=true&show_icons=true&theme=dracula)
+<div>
+	
+![Amir's github stats](https://github-readme-stats.vercel.app/api?username=amirtaherkhani&count_private=true&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtaherkhani&hide_progress=true&show_icons=true&theme=tokyonight)
+	
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amirtaherkhani)](https://git.io/streak-stats)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/amirtaherkhani/github-readme-quotes)
+
+<div>
+	
+![amirtaherkhani](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirtaherkhani&theme=tokyonight)
+![amirtaherkhani](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amirtaherkhani&theme=tokyonight)
+	
+</div>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
